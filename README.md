@@ -6,7 +6,7 @@
 * 💻   Used to work as QA Automation Engineer with Java and Selenium.
 * 🌱   Interested in learning more about Java and dotnet.
 
-<summary>⚡️ More about my coding life</summary>
+  <summary>⚡️ More about my coding life</summary>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronvasconcelos&layout=compact&hide=css,html)
