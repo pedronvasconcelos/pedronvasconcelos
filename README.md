@@ -2,7 +2,7 @@
 
 
 
-* 💼   Work as back-end developer with ASP.NET.
+* 💼   Work as back-end developer.
 * 💻   Used to work as QA Automation Engineer with Java and Selenium.
 * 🌱   Interested in learning more about Java and dotnet.
 
