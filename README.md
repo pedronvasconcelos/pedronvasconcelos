@@ -4,7 +4,6 @@
 
 * 💼   Work as back-end developer.
 * 💻   Used to work as QA Automation Engineer with Java and Selenium.
-* 🌱   Interested in Java/Spring and .NET.
 
   <summary>⚡️ More about my coding life</summary>
 <br />
