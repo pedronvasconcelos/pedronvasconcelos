@@ -11,7 +11,6 @@
 * 💻   Used to work as QA Automation Engineer with Java, Selenium and RestAssured.
 * 📐   Domain-Driven Design.
 
-#### Experience and Expertise:
 
 #### Technologies & Tools:
 
