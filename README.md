@@ -13,8 +13,9 @@
 
 
 #### Technologies & Tools:
-
-- **.NET Core**: Architectural patterns (CQRS, DDD, TDD), xUnit, EntityFrameworkCore, Dapper, MediatR
+- CQRS, DDD, TDD
+- **.NET Core**:  xUnit, EntityFrameworkCore, Dapper, MediatR, etc
+- **JVM** Java 11, Kotlin, Spring
 - **Observability & Monitoring**: Grafana, Prometheus, Amazon CloudWatch
 - **Databases**: SQLServer, PostgreSQL, MySQL/MariaDB, MongoDB.
 - **Distributed Cache**: Redis
