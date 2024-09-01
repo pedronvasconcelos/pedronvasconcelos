@@ -8,14 +8,13 @@
 * 🤖   Enthusiastic about automation.
 * 🛡️   Automation Testing culture.
 * 🌱   Passionate about software architecture.
-* 💻   Used to work as QA Automation Engineer with Java, Selenium and RestAssured.
 * 📐   Domain-Driven Design.
 
 
 #### Technologies & Tools:
 - CQRS, DDD, TDD
 - **.NET Core**:  xUnit, EntityFrameworkCore, Dapper, MediatR, etc
-- **JVM** Java 11, Kotlin, Spring
+- **Java** Java , Kotlin, Spring, Micronaut
 - **Observability & Monitoring**: Grafana, Prometheus, Amazon CloudWatch
 - **Databases**: SQLServer, PostgreSQL, MySQL/MariaDB, MongoDB.
 - **Distributed Cache**: Redis
