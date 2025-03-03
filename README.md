@@ -15,8 +15,12 @@ Software Engineer. Skilled in Java, Kotlin, .NET Core, AWS, CI/CD and other tool
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="margin-right: 10px; margin-bottom: 10px;">
 </div>
-
 
 
    
