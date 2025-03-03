@@ -1,12 +1,12 @@
 ### Hello!! ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 
-Software Engineer. Skilled in Java, Kotlin, .NET Core, AWS, CI/CD and other tools :-)
+Software Engineer. Skilled in .NET Core, Java, Kotlin, AWS, CI/CD and other tools :-)
  
 <div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin-right: 10px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" style="margin-right: 10px; margin-bottom: 10px;">
