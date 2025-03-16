@@ -28,7 +28,7 @@ Software Engineer. Skilled in .NET Core, Java, Kotlin, AWS, CI/CD and other tool
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronvasconcelos&layout=compact&hide=css,hxxtml)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronvasconcelos&layout=compact&hide=css,hxxtmlx)
 
 
  
